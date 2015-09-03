@@ -1,0 +1,11 @@
+# Requirements : -
+1. if unique properties object are adding with our project.(wooden-duck->duck but cant fly) and so on.
+2. If we have to change only properties of object like.(eating-behaviour), (fly-behaviour), (Wearing-behaviour).
+
+
+# Tips in Strategy Pattern:-
+
+1. Make heirarical behavior seperate & properties behaviour seperate.
+2. create interfaces for properties(contract - scopes).
+3. Use has-a relation of properties.
+4. Add Properties in constructor. IE.when we are creating an object & adding properties to it.(like making maggi).   
